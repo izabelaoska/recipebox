@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Hello 
 
-First, run the development server:
+This is a project built with Typescript, React, Next.js, TailwindCSS and Daisy UI. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Feel free to clone it and run `npm install` to install all dependencies. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then run dev server with `npm run dev`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the project. 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## The purpose
 
-## Learn More
+The purpose of this exercise is to translate Figma design and implement functionality where user can add recipe to view later. 
+Saved recipe is visible in the side menu - please click on the bookmark icon on the right upper corner. 
 
-To learn more about Next.js, take a look at the following resources:
+Please play around with screen sizes (including mobile) and how reipe cards are presented - any feedback is welcome here. 
+I took quite simple approach to show them all in a list for user to be able to browse. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The side menu/drawer - it does appear from the right side. This is I think - for the purpose of this exercise more straight forward approach (I looked on Mob website too)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+I hope you enjoy playing around with it! Let me know what you think. 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
