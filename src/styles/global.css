@@ -4,7 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .drawer-side {
-    top: 90px
+  top: 90px;
 }
